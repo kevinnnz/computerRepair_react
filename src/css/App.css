@@ -1,0 +1,45 @@
+.add-repair .card-body {
+  display: none;
+}
+
+.rpr-addheading {
+  cursor: pointer;
+  user-select: none;
+}
+
+.repair-list {
+  font-size: 1.1em;
+}
+
+.repair-list .customer-item {
+  border-bottom: 1px dotted gray;
+}
+
+.repair-list .customer-item:last-child {
+  border-bottom: none;
+}
+
+.repair-list .customer-name {
+  font-weight: 600;
+  color: #272F44;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.repair-list .label-item {
+  font-weight: 600;
+  color: #272F44;
+}
+
+.repair-list .rpr-date {
+  font-style: italic;
+}
+
+.repair-list .rpr-notes {
+  line-height: 120%;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #272F44;
+}

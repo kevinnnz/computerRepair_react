@@ -1,0 +1,153 @@
+[
+    {
+      "customerName": "Ethan Payne",
+      "operatingSystem": "Windows",
+      "repairNotes": "Upgrade ram and install SSD",
+      "repairDate": "2019-11-28 13:30"
+    },
+    {
+      "customerName": "Kelly Reynolds",
+      "operatingSystem": "Windows",
+      "repairNotes": "Upgrade to SSD",
+      "repairDate": "2019-11-28 10:15"
+    },
+    {
+      "customerName": "Amanda Cole",
+      "operatingSystem": "iOS",
+      "repairNotes": "Install new OS",
+      "repairDate": "2019-11-28 14:45"
+    },
+    {
+      "customerName": "Megan Alexander",
+      "operatingSystem": "Windows",
+      "repairNotes": "Computer won't turn on, freezes at start up.",
+      "repairDate": "2019-11-28 16:00"
+    },
+    {
+      "customerName": "Beverly Obrien",
+      "operatingSystem": "Windows",
+      "repairNotes": "Computer has virus. Remove virsu and back-up important docs.",
+      "repairDate": "2019-11-28 9:00"
+    },
+    {
+      "customerName": "Louis Rios",
+      "operatingSystem": "Windows",
+      "repairNotes": "Slow speeds, run diagnostics.",
+      "repairDate": "2019-11-29 13:15"
+    },
+    {
+      "customerName": "Austin Romero",
+      "operatingSystem": "iOS",
+      "repairNotes": "Transfer files from PC to new MacBook.",
+      "repairDate": "2019-11-29 10:00"
+    },
+    {
+      "customerName": "Judy McCoy",
+      "operatingSystem": "Windows",
+      "repairNotes": "Computer running slow, back-up and fresh install windows.",
+      "repairDate": "2019-11-29 11:45"
+    },
+    {
+      "customerName": "Evelyn Anderson",
+      "operatingSystem": "Windows",
+      "repairNotes": "Fix WIFI card.",
+      "repairDate": "2019-11-29 14:30"
+    },
+    {
+      "customerName": "Keith Marshall",
+      "operatingSystem": "iOS",
+      "repairNotes": "Setup time-machine",
+      "repairDate": "2019-11-29 16:00"
+    },
+    {
+      "customerName": "James Hunter",
+      "operatingSystem": "Linux",
+      "repairNotes": "Spilt liquid on computer, recover files.",
+      "repairDate": "2019-11-29 8:30"
+    },
+    {
+      "customerName": "Matthew Dixon",
+      "operatingSystem": "Windows",
+      "repairNotes": "Data Recovery, tranfer to new PC.",
+      "repairDate": "2019-11-30 10:15"
+    },
+    {
+      "customerName": "Harry Hunter",
+      "operatingSystem": "Windows",
+      "repairNotes": "URGENT: Data Recovery, needs fixed by December 5.",
+      "repairDate": "2019-11-30 11:30"
+    },
+    {
+      "customerName": "Deborah Murphy",
+      "operatingSystem": "iOS",
+      "repairNotes": "Replace screen after drop.",
+      "repairDate": "2019-11-30 14:30"
+    },
+    {
+      "customerName": "Dylan Perkins",
+      "operatingSystem": "Linux",
+      "repairNotes": "Installed 8gb of RAM, computer only recognizes 4gb.",
+      "repairDate": "2019-11-30 15:45"
+    },
+    {
+      "customerName": "Ruth Robinson",
+      "operatingSystem": "Windows",
+      "repairNotes": "Install Anti-Virus software.",
+      "repairDate": "2019-11-30 9:00"
+    },
+    {
+      "customerName": "Kimberly Anderson",
+      "operatingSystem": "iOS",
+      "repairNotes": "Transfer files from Windows to new Macbook.",
+      "repairDate": "2019-12-1 13:00"
+    },
+    {
+      "customerName": "Tyler Patterson",
+      "operatingSystem": "iOS",
+      "repairNotes": "Mackbook 2017 won't turn on. Noise heard from harddrive.",
+      "repairDate": "2019-12-1 10:00"
+    },
+    {
+      "customerName": "Austin Gordon",
+      "operatingSystem": "Windows",
+      "repairNotes": "Install Anti-Virus and Microsoft Office.",
+      "repairDate": "2019-12-1 11:30"
+    },
+    {
+      "customerName": "Donna McDonald",
+      "operatingSystem": "iOS",
+      "repairNotes": "Wipe harddrive and fresh install iOS. Customer is selling computer.",
+      "repairDate": "2019-12-1 15:15"
+    },
+    {
+      "customerName": "Brittany Johnson",
+      "operatingSystem": "iOS",
+      "repairNotes": "Replace battery on 2013 MacBook.",
+      "repairDate": "2019-12-1 8:45"
+    },
+    {
+      "customerName": "Michelle Contreras",
+      "operatingSystem": "iOS",
+      "repairNotes": "Setup Time Machine back-up for customer.",
+      "repairDate": "2019-12-2 13:30"
+    },
+    {
+      "customerName": "Julia Harvey",
+      "operatingSystem": "iOS",
+      "repairNotes": "Transfer files from Windows PC to MacBook.",
+      "repairDate": "2019-12-2 10:15"
+    },
+    {
+      "customerName": "Andrew Fowler",
+      "operatingSystem": "Windows",
+      "repairNotes": "Computer is really slow and unuseable.",
+      "repairDate": "2019-12-2 15:00"
+    },
+    {
+      "customerName": "NugCarl Brooksget",
+      "operatingSystem": "Windows",
+      "repairNotes": "Customer spilt coffee on keyboard, E,R,T key won't work.",
+      "repairDate": "2019-12-2 9:00"
+    }
+]
+  
